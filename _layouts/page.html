@@ -1,0 +1,35 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+<!DOCTYPE html>
+<html lang="en-us">
+
+{% include head.html %}
+
+<body class="subPageBody">
+    <div class="headerBackground subPageHeaderBackground">
+        <div class="container subPageContainer">
+        {% include header.html %}
+            <article class="page markdown-body">
+                {{ content }}
+            </article>
+        </div>
+        {% include appstoreimages.html %}
+    </div>
+</body>
+<script src="{{ '/assets/js/toc.js' | relative_url }}"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#toc').toc();
+    });
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QLMS6R3FXT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-QLMS6R3FXT');
+</script>
+</html>
