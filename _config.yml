@@ -1,5 +1,5 @@
 #page title
-page_title                                : InstantCoder                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : MarkGit                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1067517686                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -10,9 +10,9 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : InstantCoder                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : MarkGit                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free with In-App Purchases                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : You are the best developer in the world and you would like to code anytime, anywhere. InstantCoder makes it possible for you to edit and review code on your lovely iPhone and iPad.
+app_description                           : You are the best developer in the world and you would like to code anytime, anywhere. MarkGit makes it possible for you to edit and review code on your lovely iPhone and iPad.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Shumin Sun                                
 your_link                                 : https://marknoteapp.com                     
 your_city                                 :                                 
-email_address                             : marknoteapps@gmail.com
+email_address                             : marknoteapp@icloud.com
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : markmarknote

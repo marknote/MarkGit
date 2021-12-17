@@ -1,8 +1,8 @@
-# GitCode Privacy Policy
+# MarkGit Privacy Policy
 tags:apps,instantcoder
 
 # Privacy Policy
-Shumin Sun built the GitCode app as a Commercial app. This SERVICE is provided by Shumin Sun and is intended for use as is.
+Shumin Sun built the MarkGit app as a Commercial app. This SERVICE is provided by Shumin Sun and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
