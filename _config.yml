@@ -2,7 +2,7 @@
 page_title                                : MarkGit                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1067517686                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1576100771                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -11,8 +11,8 @@ presskit_download_link                    :                                     
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : MarkGit                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Free with In-App Purchases                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : You are the best developer in the world and you would like to code anytime, anywhere. MarkGit makes it possible for you to edit and review code on your lovely iPhone and iPad.
+app_price                                 :                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Git client + Code Editor
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -33,6 +33,10 @@ youtube_username                          :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
+
+  - title                                 : Simple and Powerful Git client
+    description                           : "Clone, commit, push with Github, GitLabd and Gitee"
+    fontawesome_icon_name                 : magic
 
   - title                                 : Syntax highlighting
     description                           : "All mainstream programming languages: css, js, html, swift, objective-c, c/c++, java, python, R, etc"
@@ -58,13 +62,7 @@ features                                  :
     description                           : Upload and download files with HTTP directly to and from your devices.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Sync with Cloud
-    description                           : Sync your source code among multiple devices via the Cloud service you choose
-    fontawesome_icon_name                 : sync
 
-  - title                                 : Terminal and SSH
-    description                           : A terminal is provided with minimal set of commands, include SSH enables logging to a remote machine
-    fontawesome_icon_name                 : terminal
 
 
 
