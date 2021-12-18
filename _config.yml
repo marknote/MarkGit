@@ -38,15 +38,11 @@ features                                  :
     description                           : "Clone, commit, push with Github, GitLabd and Gitee"
     fontawesome_icon_name                 : plane
 
-  - title                                 : Syntax highlighting
-    description                           : "All mainstream programming languages: css, js, html, swift, objective-c, c/c++, java, python, R, etc"
-    fontawesome_icon_name                 : magic
-
-
-    
-  - title                                 : Autosave changes
-    description                           : You focus on coding and the app tracks the changes
-    fontawesome_icon_name                 : clock
+  - title                                 : Touchscreen friendly Code Editor
+    description                           : "- Syntax highlighting: All mainstream programming languages: css, js, html, swift, c/c++, java, python, R, etc
+- Live preview HTML and markdown
+- Autosave "
+    fontawesome_icon_name                 : pen
 
   
   - title                                 : Open file system
