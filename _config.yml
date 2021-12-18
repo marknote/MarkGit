@@ -39,8 +39,8 @@ features                                  :
     fontawesome_icon_name                 : plane
 
   - title                                 : Touchscreen friendly Code Editor
-    description                           : "- Syntax highlighting: All mainstream programming languages: css, js, html, swift, c/c++, java, python, R, etc
-- Live preview HTML and markdown
+    description                           : "- Syntax highlighting: for all mainstream programming languages: css, js, html, swift, c/c++, java, python, R, etc <br/>
+- Live preview HTML and markdown <br/>
 - Autosave "
     fontawesome_icon_name                 : pen
 
