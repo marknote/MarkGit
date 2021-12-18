@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : MarkGit                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Git client + Code Editor
+app_description                           : Git client and Code Editor optimized for touchscreen.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,31 +36,22 @@ features                                  :
 
   - title                                 : Simple and Powerful Git client
     description                           : "Clone, commit, push with Github, GitLabd and Gitee"
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : plane
 
   - title                                 : Syntax highlighting
     description                           : "All mainstream programming languages: css, js, html, swift, objective-c, c/c++, java, python, R, etc"
     fontawesome_icon_name                 : magic
 
-  - title                                 : Run your code snippet
-    description                           : "You can run code snippets in js, java, r, python 3, c/c++, lua and ruby and see the result"
-    fontawesome_icon_name                 : plane
+
     
   - title                                 : Autosave changes
     description                           : You focus on coding and the app tracks the changes
     fontawesome_icon_name                 : clock
 
-  - title                                 : Realtime preview
-    description                           : Code and see the effect immediately
-    fontawesome_icon_name                 : adjust
   
   - title                                 : Open file system
     description                           : You can open and view your data in other apps
     fontawesome_icon_name                 : star
-
-  - title                                 : Web uploader
-    description                           : Upload and download files with HTTP directly to and from your devices.
-    fontawesome_icon_name                 : mobile
 
 
 
