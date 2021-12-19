@@ -60,4 +60,4 @@ This policy is effective as of 2021-12-12
 
 ## Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at marknotesapp@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at marknoteapp@icloud.com.
