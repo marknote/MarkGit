@@ -59,7 +59,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/de/31/f9/de31f9e4-d734-c6a4-ee00-3e15e04d2658/tns.zxzevuok.png/460x0w.webp                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
