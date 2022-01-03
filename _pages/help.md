@@ -19,8 +19,9 @@ As a git client, the app supports the following git operations:
 #### Syntax highlighting
 All mainstream programming languages: css, js, html, swift, objective-c, c/c++, java, python, R, etc
 
-#### Preview realtime
-Code and see the effect in [realtime](/MarkGit/realtime/)
+Esepcially, MarkGit has extensive support to javascript/typescrit, inclduing code intelligence. You can also run code in few languages including javascript/trype, java, python, c, R.
+
+![js support](/MarkGit/assets/videos/js-support.GIF)
 
 #### Markdow support
 MarkGit shared the same markdown parser engine with [marknote](https://marknoteapp.com/) which supports not only the full
