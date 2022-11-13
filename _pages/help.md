@@ -19,9 +19,12 @@ As a git client, the app supports the following git operations:
 #### Syntax highlighting
 All mainstream programming languages: css, js, html, swift, objective-c, c/c++, java, python, R, etc
 
-Esepcially, MarkGit has extensive support to javascript/typescrit, inclduing code intelligence. You can also run code in few languages including javascript/trype, java, python, c, R.
+#### Code autocompletion and execution
+Esepcially, MarkGit has extensive support to javascript/typescrit, including code intelligence.
 
-![js support](/MarkGit/assets/videos/js-support.GIF)
+You can also run code in few languages including javascript/trype, java, python, c, R.
+
+![js support](../assets/videos/js-support.GIF)
 
 #### Markdow support
 MarkGit shared the same markdown parser engine with [marknote](https://marknoteapp.com/) which supports not only the full
@@ -49,5 +52,5 @@ The app also supports [User Defined Shortcuts](../user-defined-shortcuts/)
 The file system of MarkGit is open and can be viewed by other apps, like Apple's Files app.   
 There are many ways you can add images / files into MarkGit. 
 For example, in iOS Photos app, choose a photo -> Share -> Save to Files -> On my iPhone/iPad -> MarkGit
-![](/MarkGit/assets/images/import-image.png)
+![](../assets/images/import-image.png)
 Then you will be able to see the newly added image in MarkGit
