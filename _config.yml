@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Simple and Powerful Git client
-    description                           : "Clone, commit, push with Github, GitLabd and Gitee"
+    description                           : "Clone, commit, push with Github, GitLabd and Gitee<br/> support OAuth and SSH key authentication <br/> View commit history with graph"
     fontawesome_icon_name                 : plane
 
   - title                                 : Touchscreen friendly Code Editor
@@ -46,7 +46,7 @@ features                                  :
 
   
   - title                                 : Open file system
-    description                           : You can open and view your data in other apps
+    description                           : "You can open and view your data in other apps<br/>Also able to open the files of other app if they are open too"
     fontawesome_icon_name                 : star
 
 
