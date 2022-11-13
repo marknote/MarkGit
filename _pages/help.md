@@ -32,7 +32,7 @@ MarkGit shared the same markdown parser engine with [marknote](https://marknotea
 
 #### Keyboard shortcuts
 
-[shortcuts](shortcuts/)
+[shortcuts](../shortcuts/)
 
 
 ## FAQ
