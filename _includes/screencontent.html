@@ -4,7 +4,7 @@
         <script>
             $(function() {
                 $(".iphoneScreen").attr('src', '{{ site.github.baseurl }}{{ file.path }}');
-                $(".iphoneScreen").removeClass("hidden");
+                //$(".iphoneScreen").removeClass("hidden");
                 console.log("{{ file.path }}");
             });
         </script>
@@ -12,7 +12,7 @@
         {% unless file.path contains 'assets/videos/Place-video-files-here.txt' %}
             <script>
                 $(function() {
-                    $(".iphoneScreen").addClass("hidden");
+                   // $(".iphoneScreen").addClass("hidden");
                     console.log("remove screenshot");
                 });
             </script>
