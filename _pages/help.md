@@ -32,18 +32,7 @@ MarkGit shared the same markdown parser engine with [marknote](https://marknotea
 
 #### Keyboard shortcuts
 
-The following shortcuts are supported on the Editor UI:   
-- `⌘,` : show editor preferences
-- `⌘f`: show/hide the "find/replace" box
-- `⌘b`: show/hide browser
-- `⌘i`: enter/exit immersive mode
-- `⌘l`: show/hide logs viewer
-
-Tips: 
-- you may need an external keyboard connected to your iPad /iphone to use shortcuts;
-- on iOS, press and hold the Command ⌘ key will list all the shortcuts supported;
-
-The app also supports [User Defined Shortcuts](../user-defined-shortcuts/)
+[shortcuts](shortcuts)
 
 
 ## FAQ
