@@ -1,6 +1,7 @@
 # MarkGit
 A touchscreen-friendly git client and code editor.
 ### Features
+
 - Git operations:
   - clone, commit, pull, push ...
   - supports github, gitlab, and gitee;

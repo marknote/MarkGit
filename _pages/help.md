@@ -26,7 +26,7 @@ You can also run code in few languages including javascript/trype, java, python,
 
 ![js support](../assets/videos/js-support.GIF)
 
-#### Markdow support
+#### Markdown support
 MarkGit shared the same markdown parser engine with [marknote](https://marknoteapp.com/) which supports not only the full
 [Github flavored markdown featuers](https://marknoteapp.com/doc/Markdown%20Quick%20Reference) but also [extended markdown syntax](https://marknoteapp.com/doc/extended%20markdown) 
 

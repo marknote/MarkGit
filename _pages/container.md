@@ -1,3 +1,9 @@
+---
+layout: page
+title: Container
+include_in_header: false
+---
+
 # container
 
 Markdown container allows defining your own style for a custom block.
