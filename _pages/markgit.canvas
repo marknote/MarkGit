@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"d8181d73f5fdf10f","x":118,"y":8,"width":277,"height":269,"type":"link","url":"https://github.marknoteapp.com/MarkGit/"},
+		{"id":"39198edf56bb7e94","x":118,"y":-283,"width":277,"height":199,"type":"file","file":"tools/markgit.md"},
+		{"id":"090dca76bc5be130","x":-325,"y":-283,"width":250,"height":60,"color":"5","type":"text","text":"a **markdown** editor"},
+		{"id":"f175eae2fb4e4d78","x":-439,"y":-84,"width":114,"height":60,"color":"4","type":"text","text":"MarkGit"},
+		{"id":"e757661ecfa1fe1e","x":-241,"y":-84,"width":126,"height":60,"color":"2","type":"text","text":"a **git** client"},
+		{"id":"9cb217919ae82813","x":-303,"y":45,"width":250,"height":60,"color":"6","type":"text","text":"supports **canvas**"}
+	],
+	"edges":[
+		{"id":"502e7791209e28e4","fromNode":"f175eae2fb4e4d78","fromSide":"right","toNode":"090dca76bc5be130","toSide":"left"},
+		{"id":"50611480216601e5","fromNode":"f175eae2fb4e4d78","fromSide":"right","toNode":"e757661ecfa1fe1e","toSide":"left"},
+		{"id":"c88c85a8e848a083","fromNode":"f175eae2fb4e4d78","fromSide":"right","toNode":"9cb217919ae82813","toSide":"left"},
+		{"id":"7fde5ad34736c05f","fromNode":"9cb217919ae82813","fromSide":"right","toNode":"39198edf56bb7e94","toSide":"left","label":"file node"},
+		{"id":"3fb9492abd321193","fromNode":"9cb217919ae82813","fromSide":"right","toNode":"d8181d73f5fdf10f","toSide":"left","label":"link node"}
+	]
+}
