@@ -1,25 +1,23 @@
 ---
 layout: page
-title: Sync Obsidian Vault with GitHub Using MarkGit
+title: Sync Obsidian Vault with Github
 include_in_header: true
 ---
-# Sync Obsidian Vault with GitHub Using MarkGit
+# Sync Obsidian Vault with GitHub
 
 
 ## Add GitHub credential
-If we have not done that yet, we need [[1677384954.100572 | Login into GitHub with MarkGit]] so that MarkGit can communicate with GitHub
+If we have not done that yet, we need [ Login into GitHub](https://github.marknoteapp.com/MarkGit/oauth-github) so that MarkGit can communicate with GitHub
 
 ## Open Obsidian Vault
 With MarkGit, click menu -> "Select a local repo", and navigate to the  Obsidian Vault. 
 MarkGit might prompt "Do you want to initialize the folder as a git repo?", in that case, just click "OK" to confirm.
-
-
-￼￼￼![](/MarkGit/assets/images/1677396213.593087.png)
+![](/MarkGit/assets/images/1677396213.593087.png)
 
 ## Create a GitHub for Obsidian Vault
 Open "https://github.com" with your favoriate web browser, and create a new repo.
 
-￼￼￼![](/MarkGit/assets/images/1677396320.611451.png)
+![](/MarkGit/assets/images/1677396320.611451.png)
 
 <div class='y'>
 Note:
@@ -32,7 +30,7 @@ With MarkGit, click the "i" icon at the top right, then click "Add remote"
 
 Input the URL of the repo, then select GitHub credential.
 
-￼￼￼![](/MarkGit/assets/images/1677396115.396241.png)
+![](/MarkGit/assets/images/1677396115.396241.png)
 
 ::: y 
 Note: 
@@ -46,11 +44,11 @@ With MarkGit, go to the "Sync" view (by clicking the 2nd icon at the bottom)
 
 Then click the "Sync" button.
 
-￼￼￼![](/MarkGit/assets/images/1677396140.549678.png)
+![](/MarkGit/assets/images/1677396140.549678.png)
 
 Once it is completed, we will be able to browse our contents in GitHub!
 
-￼￼￼![](/MarkGit/assets/images/1677396036.965742.png)
+![](/MarkGit/assets/images/1677396036.965742.png)
 
 ## Use ShortCuts to make sync easier
  Open the iOS built-in "Shortcuts" app,
@@ -62,7 +60,7 @@ Once it is completed, we will be able to browse our contents in GitHub!
 - Select "Sync the default repo with remote"
 - Click "Done" to save the automation
 
-￼￼￼![](/MarkGit/assets/images/1677395970.415463.PNG)
+![](/MarkGit/assets/images/1677395970.415463.PNG)
 
 When every time, when we open Obsidian, MarkGit sync UI can be popup and sync data for us!
 

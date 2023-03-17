@@ -1,9 +1,9 @@
 ---
 layout: page
-title: OAuth Login into GitHub with MarkGit
+title: OAuth Login into GitHub
 include_in_header: true
 ---
-# OAuth Login into GitHub with MarkGit
+# OAuth Login into GitHub
 
 <style>
 img {
@@ -18,4 +18,4 @@ Mobile Safari will open github login page, input your github user name and passw
 ![comment](/MarkGit/assets/images/1677385132.956750.png)
 
 Once login succeeded, github will prompt "Open this page in 'MarkGit'", click "Open" then you will be set.
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼![comment](/MarkGit/assets/images/1677385574.209412.png) 
+![comment](/MarkGit/assets/images/1677385574.209412.png) 
