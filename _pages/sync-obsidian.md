@@ -7,7 +7,8 @@ include_in_header: true
 
 
 ## Add GitHub credential
-If we have not done that yet, we need [ Login into GitHub](https://github.marknoteapp.com/MarkGit/oauth-github) so that MarkGit can communicate with GitHub
+
+To enable MarkGit to communicate with GitHub, it is necessary to ![log in to GitHub]((https://github.marknoteapp.com/MarkGit/oauth-github)) if this has not already been done.
 
 ## Open Obsidian Vault
 With MarkGit, click menu -> "Select a local repo", and navigate to the  Obsidian Vault. 
@@ -20,7 +21,7 @@ Open "https://github.com" with your favoriate web browser, and create a new repo
 ![](/MarkGit/assets/images/1677396320.611451.png)
 
 <div class='y'>
-Note:
+Note:<br/>
 we need select "Private" for our Obsidian Vault unless we are sure we want everyone to see the contents.
 </div>
 
@@ -32,11 +33,13 @@ Input the URL of the repo, then select GitHub credential.
 
 ![](/MarkGit/assets/images/1677396115.396241.png)
 
-::: y 
-Note: 
-- If  "OAuth credential" is used, we need use the URL with the prefix of "https";
-- If SSH key credential is used, we need use the "ssh" URL, which is in the format of "git@{host}:{path}"
-:::
+<div class='y'> 
+Note<br/>
+<ul>
+<li> If  "OAuth credential" is used, we need use the URL with the prefix of "https";</li>
+<li> If SSH key credential is used, we need use the "ssh" URL, which is in the format of "git@{host}:{path}"</li>
+</ul>
+</div>
 
 
 ## Sync
@@ -67,7 +70,7 @@ When every time, when we open Obsidian, MarkGit sync UI can be popup and sync da
 <style>
     .mark-y, .y {
     padding: 1em;
-    background-color: #CEBC81;
+    background-color: #AEECD1;
 }
 </style>
   
