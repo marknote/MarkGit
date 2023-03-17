@@ -8,7 +8,7 @@ include_in_header: true
 
 ## Add GitHub credential
 
-To enable MarkGit to communicate with GitHub, it is necessary to ![log in to GitHub]((https://github.marknoteapp.com/MarkGit/oauth-github)) if this has not already been done.
+To enable MarkGit to communicate with GitHub, it is necessary to [log in to GitHub]((https://github.marknoteapp.com/MarkGit/oauth-github)) if this has not already been done.
 
 ## Open Obsidian Vault
 With MarkGit, click menu -> "Select a local repo", and navigate to the  Obsidian Vault. 
