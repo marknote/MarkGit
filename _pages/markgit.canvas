@@ -1,0 +1,166 @@
+{
+  "nodes": [
+    {
+      "width": 360,
+      "height": 198,
+      "id": "d8181d73f5fdf10f",
+      "x": 188.04063230332793,
+      "y": 122.40654190517691,
+      "type": "link",
+      "url": "https://github.marknoteapp.com/MarkGit/",
+      "color": "#c0c0c0",
+      "resizing": false,
+      "style": {
+        "width": 360,
+        "height": 198
+      }
+    },
+    {
+      "width": 383,
+      "height": 193,
+      "id": "39198edf56bb7e94",
+      "x": 203.19924536769759,
+      "y": -199.91579181520166,
+      "type": "file",
+      "file": "_pages/markgit.md",
+      "color": "#c0c0c0",
+      "resizing": false,
+      "style": {
+        "width": 383,
+        "height": 193
+      }
+    },
+    {
+      "width": 355,
+      "height": 64,
+      "id": "090dca76bc5be130",
+      "x": -205.38458917723005,
+      "y": -296.1695072871218,
+      "color": "#03bfbc",
+      "type": "text",
+      "style": {
+        "width": 355,
+        "height": 64
+      },
+      "resizing": false,
+      "text": "a **markdown** editor"
+    },
+    {
+      "width": 124,
+      "height": 74,
+      "id": "f175eae2fb4e4d78",
+      "x": -467.1258145573957,
+      "y": -144.93926487435726,
+      "color": "#02b94e",
+      "type": "text",
+      "resizing": true,
+      "style": {
+        "width": 124,
+        "height": 74
+      },
+      "text": "MarkGit"
+    },
+    {
+      "width": 259,
+      "height": 50,
+      "id": "e757661ecfa1fe1e",
+      "x": -199.98914871874712,
+      "y": -162.8918956012774,
+      "color": "#ec7401",
+      "type": "text",
+      "style": {
+        "width": 259,
+        "height": 50
+      },
+      "resizing": false,
+      "text": "a **git** client"
+    },
+    {
+      "width": 221,
+      "height": 62,
+      "id": "9cb217919ae82813",
+      "x": -186.86233676491997,
+      "y": 28.924063091064774,
+      "color": "#7852ee",
+      "type": "text",
+      "style": {
+        "width": 221,
+        "height": 62
+      },
+      "resizing": false,
+      "text": "supports **canvas**"
+    }
+  ],
+  "edges": [
+    {
+      "type": "note",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "id": "502e7791209e28e4",
+      "fromNode": "f175eae2fb4e4d78",
+      "fromSide": "right",
+      "toNode": "090dca76bc5be130",
+      "toSide": "left",
+      "source": "f175eae2fb4e4d78",
+      "target": "090dca76bc5be130",
+      "label": ""
+    },
+    {
+      "type": "note",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "id": "50611480216601e5",
+      "fromNode": "f175eae2fb4e4d78",
+      "fromSide": "right",
+      "toNode": "e757661ecfa1fe1e",
+      "toSide": "left",
+      "source": "f175eae2fb4e4d78",
+      "target": "e757661ecfa1fe1e",
+      "label": ""
+    },
+    {
+      "type": "note",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "id": "c88c85a8e848a083",
+      "fromNode": "f175eae2fb4e4d78",
+      "fromSide": "right",
+      "toNode": "9cb217919ae82813",
+      "toSide": "left",
+      "source": "f175eae2fb4e4d78",
+      "target": "9cb217919ae82813",
+      "label": ""
+    },
+    {
+      "type": "note",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "id": "7fde5ad34736c05f",
+      "fromNode": "9cb217919ae82813",
+      "fromSide": "right",
+      "toNode": "39198edf56bb7e94",
+      "toSide": "left",
+      "label": "file node",
+      "source": "9cb217919ae82813",
+      "target": "39198edf56bb7e94"
+    },
+    {
+      "type": "note",
+      "markerEnd": {
+        "type": "arrowclosed"
+      },
+      "id": "3fb9492abd321193",
+      "fromNode": "9cb217919ae82813",
+      "fromSide": "right",
+      "toNode": "d8181d73f5fdf10f",
+      "toSide": "left",
+      "label": "link node",
+      "source": "9cb217919ae82813",
+      "target": "d8181d73f5fdf10f"
+    }
+  ]
+}
