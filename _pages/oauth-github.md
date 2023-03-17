@@ -1,3 +1,8 @@
+---
+layout: page
+title: OAuth Login into GitHub with MarkGit
+include_in_header: true
+---
 # OAuth Login into GitHub with MarkGit
 
 <style>

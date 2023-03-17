@@ -1,3 +1,8 @@
+---
+layout: page
+title: Sync Obsidian Vault with GitHub Using MarkGit
+include_in_header: true
+---
 # Sync Obsidian Vault with GitHub Using MarkGit
 
 
